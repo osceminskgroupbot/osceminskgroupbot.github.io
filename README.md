@@ -10,4 +10,4 @@ Statements are generated at quite low temperature (probably because of the small
 
     th sample.lua -length 4000 -temperature 0.5 -start_text "VIENNA, 7 April 2016" -checkpoint ../bot/minskgroup/cv/s512d0.5_3400.t7
     
-The model is available in the repository.
+The model (25MB) is available in the repository. Hmm.. this is a quite heavy bot.
